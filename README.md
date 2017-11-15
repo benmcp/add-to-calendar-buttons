@@ -1,3 +1,5 @@
+Note - This is a fork of [this repo](https://github.com/carlsednaoui/add-to-calendar-buttons). Please address issues there.
+
 # OuiCal
 
 A simple JS library that enables you to add an "add to calendar" button for your upcoming events.
