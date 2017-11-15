@@ -1,0 +1,8 @@
+{
+  "name": "add-to-calendar-buttons",
+  "version": "1.0.0",
+  "main": "ouical.js",
+  "repository": "https://github.com/benmcp/add-to-calendar-buttons.git",
+  "author": "Ben McPhail <ben@presentcompany.co>",
+  "license": "MIT"
+}
